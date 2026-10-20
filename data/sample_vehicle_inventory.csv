@@ -1,0 +1,16 @@
+vehicle,item,unit,on_hand,min_level
+Truck 1,Chlorine tablets,bucket,3,2
+Truck 1,Liquid chlorine,gal,6,10
+Truck 1,Shock,lb,12,10
+Truck 1,Sodium bicarbonate,lb,8,10
+Truck 1,Test strips,bottle,2,2
+Truck 2,Chlorine tablets,bucket,1,2
+Truck 2,Liquid chlorine,gal,14,10
+Truck 2,Shock,lb,15,10
+Truck 2,Sodium bicarbonate,lb,12,10
+Truck 2,Test strips,bottle,1,2
+Truck 3,Chlorine tablets,bucket,4,2
+Truck 3,Liquid chlorine,gal,11,10
+Truck 3,Shock,lb,6,10
+Truck 3,Sodium bicarbonate,lb,10,10
+Truck 3,Test strips,bottle,3,2
