@@ -1,0 +1,5 @@
+# Never commit Google service account keys or other credentials
+*service-account*.json
+*credentials*.json
+*.key
+.env
